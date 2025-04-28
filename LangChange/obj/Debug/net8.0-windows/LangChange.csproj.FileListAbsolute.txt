@@ -33,3 +33,4 @@ C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\obj\Debug\net8.0-windows\re
 C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\obj\Debug\net8.0-windows\LangChange.pdb
 C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\obj\Debug\net8.0-windows\LangChange.genruntimeconfig.cache
 C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\obj\Debug\net8.0-windows\ref\LangChange.dll
+C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\obj\Debug\net8.0-windows\LangChange.sourcelink.json

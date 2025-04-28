@@ -1,0 +1,5 @@
+C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\bin\Release\net8.0-windows\publish\LangChange.exe
+C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\bin\Release\net8.0-windows\publish\LangChange.dll
+C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\bin\Release\net8.0-windows\publish\LangChange.deps.json
+C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\bin\Release\net8.0-windows\publish\LangChange.runtimeconfig.json
+C:\Users\Beb999\Desktop\BB-Beb\LangChange\LangChange\bin\Release\net8.0-windows\publish\LangChange.pdb

@@ -55,7 +55,7 @@
             // timer
             // 
             timer.Enabled = true;
-            timer.Interval = 500;
+            timer.Interval = 200;
             // 
             // Form1
             // 
